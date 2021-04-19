@@ -6,11 +6,11 @@ This Plugin was originally created by BedrockMine. I just translated it (to some
 With this plugin you can give your players the ability to use a /payall command to pay a specific amount of money (EconomyAPI needed) to every player online!
 
 # Commands + Permissions
-**/payall <amount>
+**/payall <amount>**
 payall.cmd
 default: true
 
-/payallinfo
+**/payallinfo**
 payallinfo.cmd
 default: true
 
