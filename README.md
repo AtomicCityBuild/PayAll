@@ -23,7 +23,7 @@ default: op
 
 > // Payall Plugin by BedrockMine
  
-> // This plugin was originally created by BedrockMine, a Server located in Germany.
+> # This plugin was originally created by BedrockMine, a Server located in Germany.
 > // IP: bedrockmine.net
 > // Port: 19132
 
