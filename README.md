@@ -12,7 +12,7 @@ payall.cmd
 **/payallinfo**
 payallinfo.cmd
 
-They are true on default. That means, that they are usable for everyone. If you want to use the permissions, you need to open **plugin.yml** and change default for both permissions to **op**
+They are true on default. That means, that they are usable for everyone. If you want to use the permissions, you need to open **plugin.yml** and change default for both permissions to **op**.
 It must look like this: 
 **default: op**
 
