@@ -20,6 +20,7 @@ default: op
 
 # Config:
 (Every Hashtag got replaced with //)
+
 // Payall Plugin by BedrockMine
 
 // This plugin was originally created by BedrockMine, a Server located in Germany.
