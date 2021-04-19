@@ -19,7 +19,7 @@ It must look like this:
 default: op
 
 # Config:
-(Every Hashtag got replaced with //)
+(Every Hashtag got replaced with // because of reasons and I like PHP)
 
 > // Payall Plugin by BedrockMine
  
