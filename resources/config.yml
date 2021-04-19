@@ -1,0 +1,32 @@
+# Payall Plugin
+#
+# This plugin was originally created by BedrockMine, a Server located in Germany.
+# IP: bedrockmine.net
+# Port: 19132
+#
+# Translated to something like english by GermanLetsLPFor :)
+# (I am very sorry for my bad english, hopefully you can use it anyways :D)
+#
+# {name} = Name of player
+# {amount} = Amount of dollars the player pay to everyone
+
+
+# the minimum amount a player has to pay
+minimum_amount_to_pay: 10
+
+# The message, which will send to the player if he does not have enough money
+message_minmumpay_not_reached: §cYou need to payall at least 10$!
+
+# The minimum amount a player must have to use payall
+minimum_amount_to_have: 250
+
+# The message if the player does not have enough money!
+message_minimumhave_not_reached: §cYou do not have enough money!
+
+# The public message if a player used payall successfull!
+message_payall_public: §e{name} §apayed §e{amount}$ §ato everybody! :D
+
+# The pupup if a player payed dollars using payall. (to a player who got the money lol)
+popup_payall: §c{name} §apayed §c{amount}$ §ato you!
+
+# End of Config (yay)

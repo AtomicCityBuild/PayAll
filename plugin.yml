@@ -1,0 +1,19 @@
+name: PayAll
+main: payall\Main
+version: 1.0.0
+api: 3.0.0
+author: Spielerstoner
+translator: GermanLetsLPFor
+commands:
+  payall:
+    description: Gift money to everyone online!
+    permission: "payall.cmd"
+  payallinfo:
+    description: Shows information about PayAll
+    permission: "payallinfo.cmd"
+
+permissions:
+  payall.cmd:
+    default: true
+  payallinfo.cmd:
+    default: true
