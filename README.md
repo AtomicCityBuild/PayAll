@@ -1,4 +1,4 @@
-# PayAll
+# PayAll Plugin
 A simple to use PayAll Plugin for Pocketmine-MP/Altay
 
 This Plugin was originally created by BedrockMine. I just translated it (to something like english).
