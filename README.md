@@ -8,15 +8,13 @@ With this plugin you can give your players the ability to use a /payall command 
 # Commands + Permissions
 **/payall <amount>**
 payall.cmd
-default: true
 
 **/payallinfo**
 payallinfo.cmd
-default: true
 
-Default True means that everyone can use this commands. If you want to use the permissions, please open the plugin.yml and set default to op
+They are true on default. That means, that they are usable for everyone. If you want to use the permissions, you need to open **plugin.yml** and change default for both permissions to **op**
 It must look like this: 
-default: op
+**default: op**
 
 # Config:
 (Every Hashtag got replaced with // because of reasons and I like PHP)
